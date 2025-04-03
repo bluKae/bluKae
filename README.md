@@ -6,7 +6,7 @@
 - 😄 Pronouns: he/him or anything else
 - ⚡ Fun fact: I haven't contributed to any repo yet
 
-![bluKae's counter](https://count.getloli.com/@blukae)
+![bluKae's counter](https://count.getloli.com/@blukae?darkmode=0)
 
 <!---
 bluKae/bluKae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
